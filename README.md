@@ -54,7 +54,7 @@
 ---
 
 <p align="center">
-  <i>"Where biology meets code."</i>
+  <i>"Where Code meets Biology!!."</i>
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Dhanu577&color=blueviolet&style=flat-square)
