@@ -13,7 +13,7 @@
 🤖 Exploring   →  ML-driven analysis of biomaterial data
 🌱 Learning    →  ML, TechBio, frontend
 🎯 Goal        →  TechBio industry
-📍 Based in    →  Tamil Nadu, India
+📍 Based in    →  Tamil Nadu, India.
 ```
 
 ---
