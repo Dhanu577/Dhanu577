@@ -1,7 +1,7 @@
 <h1 align="center">Hii, I'm Dhanuska 👋</h1>
 
 <p align="center">
-  Bioinformatics Student · Wet Lab × Machine Learning · TechBio Aspirant
+  Bioinformatics Student · Wet Lab × Machine Learning · TechBio Aspiran
 </p>
 
 ---
