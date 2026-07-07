@@ -6,7 +6,7 @@
 
 ---
 
-### 🧬 About Me
+### 🧬 About 
 
 ```text
 🔬 Currently   →  Hands-on wet lab work X Computational Biology
